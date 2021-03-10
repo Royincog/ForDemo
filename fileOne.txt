@@ -1,0 +1,2 @@
+This is the commit from file one
+This is a new line getting added
